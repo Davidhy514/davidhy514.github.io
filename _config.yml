@@ -6,9 +6,9 @@ email: yangd13@rpi.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: David Yang, David H Yang, David Hong Yang, phd student, research, AI, ML, CS, RPI
+description: David Yang is a PhD student in CS at Rensselaer Polytechnic Institute. This website features he research, publications, and projects in AI.
+canonical: https://davidhy514.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
