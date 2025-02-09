@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm currently a second year Ph.D. student at Rensselaer Polytechnic Institute, advised by Dr. Mohammad Amiri and Dr. Tomek Strzalkowski. My research lies broadly in the fields of Artificial Intelligence and Machine Learning - with a focus on building intelligent AI systems that enable enhanced human-AI collaboration. My recent research interests are related to continual learning and efficiency, exploring how to create models that are lifelong learners that can adapt to dynamic environments.
 
-## Research Interests
+Previously, I completed my Master's degree in Computer Science and Bachelors in Electrical Engineering from the University of Toronto.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Before embarking on my PhD journey, I co-founded two startup companies with a strong focus on AI technology.
+
+Addressing construction estimation needs at [ML Estimation](https://mlestimation.com/).
+
+Immersify yourself and create stories using [Story Crafter](https://storycrafter.ai/).
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2024]** Launch of Website
