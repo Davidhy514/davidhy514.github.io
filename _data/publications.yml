@@ -1,11 +1,11 @@
 main:
 
-  - title: SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching
+  - title: "SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching"
     authors: Yuxuan Zhu, Ali Falahati, <strong>David H. Yang</strong>, Mohammad Mohammadi Amiri
     pdf: https://arxiv.org/pdf/2504.00970
-    image: ./assets/img/SGC.png
+    image: ./assets/img/sentenceKV.png
 
-  - title: Sparse Gradient Compression for Fine-Tuning Large Language Models
+  - title: "Sparse Gradient Compression for Fine-Tuning Large Language Models"
     authors: <strong>David H. Yang</strong>, Mohammad Mohammadi Amiri, Tejaswini Pedapati, Subhajit Chaudhury, Pin-Yu Chen
     pdf: https://arxiv.org/pdf/2502.00311
     image: ./assets/img/SGC.png
