@@ -3,7 +3,7 @@ main:
   - title: "OjaKV: Context-Aware Online Low-Rank KV Cache Compression with Oja's Rule"
     authors: Yuxuan Zhu*, <strong>David H. Yang*</strong>, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Pin-Yu Chen
     pdf: https://arxiv.org/abs/2509.21623
-    image: ./assets/img/sentencekv.png
+    image: ./assets/img/ojakv.png
     
   - title: "SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching"
     authors: Yuxuan Zhu, Ali Falahati, <strong>David H. Yang</strong>, Mohammad Mohammadi Amiri
