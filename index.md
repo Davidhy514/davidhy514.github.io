@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently a second year Ph.D. student at Rensselaer Polytechnic Institute, advised by [Dr. Mohammad Amiri](https://mmamiri.github.io/) and [Dr. Tomek Strzalkowski](https://lacailab.cogsci.rpi.edu/). My research lies broadly in the fields of Artificial Intelligence and Machine Learning - with a focus on building intelligent AI systems that enable enhanced human-AI collaboration. My recent research interests are related to continual learning and efficiency, exploring how to create models that are lifelong learners that can adapt to dynamic environments.
+I'm currently a third year Ph.D. student at Rensselaer Polytechnic Institute, advised by [Dr. Mohammad Amiri](https://mmamiri.github.io/) and [Dr. Tomek Strzalkowski](https://lacailab.cogsci.rpi.edu/). I work on building scalable AI systems that enable deeper human-AI collaboration and understanding over long-term interactions.  lies in the efficiency and long-context memory capabilities of LLMs, with the broader goal of developing lifelong learning systems that can adapt to dynamic, evolving environments.
 
 Previously, I completed my Master's degree in Computer Science and Bachelors in Electrical Engineering from the University of Toronto.
 
