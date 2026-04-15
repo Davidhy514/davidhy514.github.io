@@ -1,17 +1,26 @@
 main:
 
+ - title: "ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval"
+    authors: <strong>David H. Yang*</strong>, Yuxuan Zhu, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Subhajit Chaudhury, Pin-Yu Chen
+    conference: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 
+    pdf: http://arxiv.org/abs/2604.10898
+    image: ./assets/img/ojakv.png
+    
   - title: "OjaKV: Context-Aware Online Low-Rank KV Cache Compression with Oja's Rule"
     authors: Yuxuan Zhu*, <strong>David H. Yang*</strong>, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Pin-Yu Chen
+    conference: Findings of the Association for Computational Linguistics, ACL 2026
     pdf: https://arxiv.org/abs/2509.21623
     image: ./assets/img/ojakv.png
     
   - title: "SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching"
     authors: Yuxuan Zhu, Ali Falahati, <strong>David H. Yang</strong>, Mohammad Mohammadi Amiri
+    conference: Conference on Language Modeling, COLM 2025
     pdf: https://arxiv.org/pdf/2504.00970
     image: ./assets/img/sentencekv.png
 
   - title: "Sparse Gradient Compression for Fine-Tuning Large Language Models"
     authors: <strong>David H. Yang</strong>, Mohammad Mohammadi Amiri, Tejaswini Pedapati, Subhajit Chaudhury, Pin-Yu Chen
+    conference: Workshop on Sparsity in LLMs, ICLR 2025
     pdf: https://arxiv.org/pdf/2502.00311
     image: ./assets/img/SGC.png
 
