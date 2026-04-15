@@ -1,6 +1,6 @@
 main:
 
- - title: "ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval"
+  - title: "ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval"
     authors: <strong>David H. Yang*</strong>, Yuxuan Zhu, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Subhajit Chaudhury, Pin-Yu Chen
     conference: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 
     pdf: http://arxiv.org/abs/2604.10898
