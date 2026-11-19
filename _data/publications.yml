@@ -1,5 +1,12 @@
 main:
 
+  - title: "MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory"
+    authors: <strong>David H. Yang</strong>, Blake Bullwinkel, Amanda Minnich, Mohammad Mohammadi Amiri, Giorgio Severi
+    conference: Under Review at ICLR
+    pdf: https://arxiv.org/abs/2611.09721
+    image: ./assets/img/memorydojo.png
+    image_contain: true
+
   - title: "ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval"
     authors: <strong>David H. Yang</strong>, Yuxuan Zhu, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Subhajit Chaudhury, Pin-Yu Chen
     conference_short: ACL
